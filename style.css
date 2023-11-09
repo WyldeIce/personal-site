@@ -1,0 +1,17 @@
+#homePage{
+    background-color: rgb(2, 76, 100);
+}
+
+#homeH1 {
+    color: aliceblue;
+    position: fixed;
+    background-color: darkslategray;
+    width: 100%;
+    padding-left: 15px;
+    margin-left: -10px;
+    margin-top: -20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* rgb(2, 76, 100); */
