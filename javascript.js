@@ -1,0 +1,1 @@
+alert("Welcome to Seth's Personal Website! Enjoy your stay!");
